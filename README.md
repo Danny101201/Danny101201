@@ -17,11 +17,11 @@ My name is Danny Wu. and I'm a Frontend Developer from Taiwan.
 
 ## Backend Skills
 
-[![My Skills](https://skillicons.dev/icons?i=express,nodejs,graphql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,nodejs,graphql,nestjs)](https://skillicons.dev)
 
 ## Database Skills
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,redis,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,redis,mysql,postgres,prisma)](https://skillicons.dev)
 
 ## Operation Skills
 
@@ -36,8 +36,8 @@ My name is Danny Wu. and I'm a Frontend Developer from Taiwan.
 [![My Skills](https://skillicons.dev/icons?i=vercel,netlify)](https://skillicons.dev)
 
 
-## Design Tool Skills
+## CI Skills
 
-[![My Skills](https://skillicons.dev/icons?i=ps,pr,ai,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gitlab)](https://skillicons.dev)
 
 
