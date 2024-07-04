@@ -43,5 +43,7 @@ My name is Danny Wu. and I'm a Frontend Developer from Taiwan.
 
 ## Dev Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [6 repos To Master Nextjs ⭐](https://app.daily.dev/posts/dQUmC4E0n?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
+- [No title](https://app.daily.dev/posts/UWkp9Uldk?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [Mastering Git: 13 Advanced Techniques and Shortcuts for Efficiency](https://app.daily.dev/posts/ypMPuWB45?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 <!-- daily.dev BOOKMARKS:END -->
