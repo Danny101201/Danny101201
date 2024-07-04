@@ -40,4 +40,5 @@ My name is Danny Wu. and I'm a Frontend Developer from Taiwan.
 
 [![My Skills](https://skillicons.dev/icons?i=gitlab)](https://skillicons.dev)
 
-
+<!-- daily.dev BOOKMARKS:START -->
+<!-- daily.dev BOOKMARKS:END -->
