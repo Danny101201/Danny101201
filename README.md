@@ -43,9 +43,9 @@ My name is Danny Wu. and I'm a Frontend Developer from Taiwan.
 
 ## Dev Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [8 Strategies for Reducing Latency](https://app.daily.dev/posts/zNfnMjoVT?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [No title](https://app.daily.dev/posts/bZbxoWK8a?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [Learn how to implement Storybook 8.0 in Next.js in this easy tutorial.](https://app.daily.dev/posts/m1DS1Q93T?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [6 repos To Master Nextjs ⭐](https://app.daily.dev/posts/dQUmC4E0n?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [No title](https://app.daily.dev/posts/UWkp9Uldk?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
-- [Mastering Git: 13 Advanced Techniques and Shortcuts for Efficiency](https://app.daily.dev/posts/ypMPuWB45?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 <!-- daily.dev BOOKMARKS:END -->
