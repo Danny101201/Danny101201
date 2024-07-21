@@ -43,9 +43,9 @@ My name is Danny Wu. and I'm a Frontend Developer from Taiwan.
 
 ## Dev Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [React SPA in Astro with TanStack Router](https://app.daily.dev/posts/j27qrcZI2?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [Exploring Effect, a meta-state RxJS-like framework](https://app.daily.dev/posts/kxkIYFPg5?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [JWT vs PASETO: New Era of Token-Based Authentication](https://app.daily.dev/posts/tO2oBjXXo?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [8 Strategies for Reducing Latency](https://app.daily.dev/posts/zNfnMjoVT?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [No title](https://app.daily.dev/posts/bZbxoWK8a?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
-- [Learn how to implement Storybook 8.0 in Next.js in this easy tutorial.](https://app.daily.dev/posts/m1DS1Q93T?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 <!-- daily.dev BOOKMARKS:END -->
