@@ -43,9 +43,9 @@ My name is Danny Wu. and I'm a Frontend Developer from Taiwan.
 
 ## Dev Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [How to implement Search in Next.js &lpar;Shadcn, tRPC, Drizzle&rpar;](https://app.daily.dev/posts/7cMM9IX9h?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [6 Must-Know JavaScript ES13 Features for Modern Development 🚀](https://app.daily.dev/posts/3KFtK9Xzd?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [NextJS Feature Flagging Made Easy](https://app.daily.dev/posts/jy5P0KH5K?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [More Secure Authentication: From Passwords to Passkeys](https://app.daily.dev/posts/BsNiLztpr?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [Mock NextJS server-side API request using MswJS](https://app.daily.dev/posts/AbfVeeV2E?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
-- [React 19&#39;s useOptimistic: EVERYTHING you NEED to know](https://app.daily.dev/posts/2yUhq1qKL?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 <!-- daily.dev BOOKMARKS:END -->
