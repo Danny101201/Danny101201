@@ -43,9 +43,9 @@ My name is Danny Wu. and I'm a Frontend Developer from Taiwan.
 
 ## Dev Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Comment Sorting](https://app.daily.dev/posts/GmJxoDsta?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [Express 5.0 released after 10 years 🚀🎉](https://app.daily.dev/posts/Gi3Z0NR7n?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [How to implement Search in Next.js &lpar;Shadcn, tRPC, Drizzle&rpar;](https://app.daily.dev/posts/7cMM9IX9h?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [6 Must-Know JavaScript ES13 Features for Modern Development 🚀](https://app.daily.dev/posts/3KFtK9Xzd?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [NextJS Feature Flagging Made Easy](https://app.daily.dev/posts/jy5P0KH5K?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
-- [More Secure Authentication: From Passwords to Passkeys](https://app.daily.dev/posts/BsNiLztpr?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 <!-- daily.dev BOOKMARKS:END -->
