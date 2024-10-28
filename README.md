@@ -43,9 +43,9 @@ My name is Danny Wu. and I'm a Frontend Developer from Taiwan.
 
 ## Dev Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [ESLint adoption guide: Overview, examples, and alternatives](https://app.daily.dev/posts/ObpYQQWmh?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [What&#39;s new in ECMAScript 2024](https://app.daily.dev/posts/ELeCxFJQZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [How to add AI-powered search to a React app](https://app.daily.dev/posts/8qaLylS0M?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [Brief overview : AWS EC2 Instance Setup and Secure CI/CD Pipeline with Jenkins](https://app.daily.dev/posts/3i8tRlUli?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [Comment Sorting](https://app.daily.dev/posts/GmJxoDsta?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
-- [Express 5.0 released after 10 years 🚀🎉](https://app.daily.dev/posts/Gi3Z0NR7n?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 <!-- daily.dev BOOKMARKS:END -->
