@@ -43,9 +43,9 @@ My name is Danny Wu. and I'm a Frontend Developer from Taiwan.
 
 ## Dev Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [No title](https://app.daily.dev/posts/hqb4e0AzJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
+- [Building a reliable Node.js application](https://app.daily.dev/posts/zjsQd62CQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
+- [No title](https://app.daily.dev/posts/nlZ3NS1os?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [How to Encrypt JavaScript Code for Web Security](https://app.daily.dev/posts/AXO4H8pdz?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [Modern Redis Crash Course: Backend with Express, TypeScript and Zod](https://app.daily.dev/posts/V1qJK1iZX?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
-- [Full NGINX Tutorial - Demo Project with Node.js, Docker](https://app.daily.dev/posts/RRu4EMV47?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
-- [React Scan - Scan your React app for problematic renders and performance](https://app.daily.dev/posts/vCFNyfu5t?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
-- [Master 20 Essential TypeScript Tricks: Write More Efficient Code in 2024](https://app.daily.dev/posts/7UXcr3Ee3?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 <!-- daily.dev BOOKMARKS:END -->
