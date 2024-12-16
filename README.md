@@ -49,3 +49,8 @@ My name is Danny Wu. and I'm a Frontend Developer from Taiwan.
 - [No title](https://app.daily.dev/posts/hqb4e0AzJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [Building a reliable Node.js application](https://app.daily.dev/posts/zjsQd62CQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 <!-- daily.dev BOOKMARKS:END -->
+
+## My Pets
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{username}" width="1000" height="120"/>
+</a>
