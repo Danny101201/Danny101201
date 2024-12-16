@@ -52,5 +52,5 @@ My name is Danny Wu. and I'm a Frontend Developer from Taiwan.
 
 ## My Pets
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{username}" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/danny101201" width="1000" height="120"/>
 </a>
