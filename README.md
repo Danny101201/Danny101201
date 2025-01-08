@@ -43,11 +43,11 @@ My name is Danny Wu. and I'm a Frontend Developer from Taiwan.
 
 ## Dev Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Dockerfile vs Buildpacks: Which One to Choose?](https://app.daily.dev/posts/okxppXCIg?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [Building a Social Stats Dashboard with SST &amp; Next.js](https://app.daily.dev/posts/PaRjlrsyk?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [State of JavaScript 2024](https://app.daily.dev/posts/EWwKkNQ67?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [No title](https://app.daily.dev/posts/DDyHu1PV5?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [npm package from Express crew: Response time header for Node.js web applications, often used with Express as middleware.](https://app.daily.dev/posts/iaT86QV6a?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
-- [No title](https://app.daily.dev/posts/rUBlU2hi8?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 <!-- daily.dev BOOKMARKS:END -->
 
 ## My Pets
