@@ -43,11 +43,11 @@ My name is Danny Wu. and I'm a Frontend Developer from Taiwan.
 
 ## Dev Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [AsyncLocalStorage: Simplify Context Management in Node.js](https://app.daily.dev/posts/U6bLhardy?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
+- [WTF Are JWTs?](https://app.daily.dev/posts/Ot7ZJeokZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [Create a Blockchain App Using React](https://app.daily.dev/posts/l6AUOMHQL?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [Polling or WebSockets: Choosing with Amazon API Gateway](https://app.daily.dev/posts/UTallGr4r?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [Dockerfile vs Buildpacks: Which One to Choose?](https://app.daily.dev/posts/okxppXCIg?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
-- [Building a Social Stats Dashboard with SST &amp; Next.js](https://app.daily.dev/posts/PaRjlrsyk?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
-- [State of JavaScript 2024](https://app.daily.dev/posts/EWwKkNQ67?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 <!-- daily.dev BOOKMARKS:END -->
 
 ## My Pets
