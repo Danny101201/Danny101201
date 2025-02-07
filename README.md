@@ -43,11 +43,11 @@ My name is Danny Wu. and I'm a Frontend Developer from Taiwan.
 
 ## Dev Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Test-Driven Development &lpar;TDD&rpar; is a powerful methodology for writing clean, and tested code. In this article, we’ll explore how to implement TDD using Bun’s built-in test runner, Bun Test, which is known for its speed and simplicity.](https://app.daily.dev/posts/Ma5FCSirz?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [3 Advanced Famer Motion Effects in React](https://app.daily.dev/posts/8Pjt8LSQh?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [🔐 Top 3 Best authentication Frameworks for 2025 🗝️🧰](https://app.daily.dev/posts/Gan6KDll7?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [Fuzz Testing REST APIs in Node.js](https://app.daily.dev/posts/LOh6yFl0X?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [Next.js 15 Authentication COMPLETE Guide &lpar;+ Best Practices, Pitfalls&rpar;](https://app.daily.dev/posts/0fIIt4iRD?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
-- [Mastering Docker and Jenkins: Build Robust CI/CD Pipelines Efficiently](https://app.daily.dev/posts/B3kVHiPzE?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 <!-- daily.dev BOOKMARKS:END -->
 
 ## My Pets
