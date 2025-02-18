@@ -43,11 +43,11 @@ My name is Danny Wu. and I'm a Frontend Developer from Taiwan.
 
 ## Dev Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [The Must-Have SEO Checklist for Developers](https://app.daily.dev/posts/asPKvkqRx?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [No title](https://app.daily.dev/posts/zGgno7K7I?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [No title](https://app.daily.dev/posts/dNZEuuLx7?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [How to Perform Code Reviews in Tech – The Painless Way](https://app.daily.dev/posts/YWgHDoIEj?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [No title](https://app.daily.dev/posts/HSXX64nz7?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
-- [Test-Driven Development &lpar;TDD&rpar; is a powerful methodology for writing clean, and tested code. In this article, we’ll explore how to implement TDD using Bun’s built-in test runner, Bun Test, which is known for its speed and simplicity.](https://app.daily.dev/posts/Ma5FCSirz?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 <!-- daily.dev BOOKMARKS:END -->
 
 ## My Pets
