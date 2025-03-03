@@ -43,11 +43,11 @@ My name is Danny Wu. and I'm a Frontend Developer from Taiwan.
 
 ## Dev Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [SQL Tutorial - All 38 Concepts You Need To Know](https://app.daily.dev/posts/zh74MxQlM?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [No title](https://app.daily.dev/posts/eYWj1TfOD?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [Test Your Database Without Mocks](https://app.daily.dev/posts/8PvS8q2Sq?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [A GraphQL-based e-commerce API built with Node.js for efficient product, order, and user management.](https://app.daily.dev/posts/7z7S1ev22?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [The Must-Have SEO Checklist for Developers](https://app.daily.dev/posts/asPKvkqRx?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
-- [No title](https://app.daily.dev/posts/zGgno7K7I?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 <!-- daily.dev BOOKMARKS:END -->
 
 ## My Pets
