@@ -43,11 +43,11 @@ My name is Danny Wu. and I'm a Frontend Developer from Taiwan.
 
 ## Dev Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Stream Video In React &amp; Next.js OPTIMALLY &lpar;WebM, CDN, m3u8 / HLS / ABS, ImageKit&rpar;](https://app.daily.dev/posts/O7CPquTBr?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [Essential CLI/TUI Tools for Developers](https://app.daily.dev/posts/LM7Dks3lZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [Ready-to-use NestJS project with Domain-Driven Design and DevOps techniques](https://app.daily.dev/posts/MxpLxDTF2?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [How to Build a Social Learning Platform using Next.js, Stream, and Supabase](https://app.daily.dev/posts/lQ5JCwLrY?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [How to Build a Reusable useSearch Hook in React](https://app.daily.dev/posts/wnGV3IfoC?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
-- [SQL Tutorial - All 38 Concepts You Need To Know](https://app.daily.dev/posts/zh74MxQlM?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 <!-- daily.dev BOOKMARKS:END -->
 
 ## My Pets
