@@ -43,11 +43,11 @@ My name is Danny Wu. and I'm a Frontend Developer from Taiwan.
 
 ## Dev Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [How to Code a Crossy Road Game Clone with React Three Fiber](https://app.daily.dev/posts/xCSICUd8P?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [A Lightweight &amp; Smooth 5KB JavaScript Framework for Dynamic UI Experiences](https://app.daily.dev/posts/80XEtIBPh?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [No title](https://app.daily.dev/posts/4mzLiDTXI?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [Stream Video In React &amp; Next.js OPTIMALLY &lpar;WebM, CDN, m3u8 / HLS / ABS, ImageKit&rpar;](https://app.daily.dev/posts/O7CPquTBr?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [Essential CLI/TUI Tools for Developers](https://app.daily.dev/posts/LM7Dks3lZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
-- [Ready-to-use NestJS project with Domain-Driven Design and DevOps techniques](https://app.daily.dev/posts/MxpLxDTF2?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 <!-- daily.dev BOOKMARKS:END -->
 
 ## My Pets
