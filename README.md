@@ -13,7 +13,7 @@ My name is Danny Wu. and I'm a Frontend Developer from Taiwan.
 
 ## Frontend Skills
 
-[![My Skills](https://skillicons.dev/icons?i=react,materialui,tailwind,sass,tailwindcss,redux,vite,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,materialui,tailwind,sass,redux,vite,nextjs)](https://skillicons.dev)
 
 ## Backend Skills
 
@@ -38,10 +38,13 @@ My name is Danny Wu. and I'm a Frontend Developer from Taiwan.
 
 ## CI Skills
 
-[![My Skills](https://skillicons.dev/icons?i=gitlab)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gitlab,azure)](https://skillicons.dev)
 
 ## Monitor
+
+[![My Skills](https://skillicons.dev/icons?i=jest,vitest)](https://skillicons.dev)
+
+## Test
 
 [![My Skills](https://skillicons.dev/icons?i=sentry)](https://skillicons.dev)
 
