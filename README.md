@@ -52,11 +52,11 @@ My name is Danny Wu. and I'm a Frontend Developer from Taiwan.
 
 ## Dev Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [No title](https://app.daily.dev/posts/3JyqOgs1e?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [Master Database Management Systems](https://app.daily.dev/posts/ZgdO3Ow4Q?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [How DNS Works: A Guide to Understanding the Internet&#39;s Address Book](https://app.daily.dev/posts/tFKRkIdum?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [What’s New in Node.JS 24](https://app.daily.dev/posts/ZdghHM3JP?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [How to Master Log Management with Logrotate in Docker Containers](https://app.daily.dev/posts/YwD5allIv?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
-- [How to detect VPN users on your website/app](https://app.daily.dev/posts/pXLcEMEPK?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 <!-- daily.dev BOOKMARKS:END -->
 
 ## My Pets
