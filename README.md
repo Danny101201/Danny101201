@@ -52,11 +52,11 @@ My name is Danny Wu. and I'm a Frontend Developer from Taiwan.
 
 ## Dev Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [The Backend-for-Frontend &lpar;BFF&rpar; Pattern: Secure Auth Done Right](https://app.daily.dev/posts/DH1Nx5Sor?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [How to Work with Queues in TypeScript](https://app.daily.dev/posts/376bvdbn2?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [The NestJS Handbook – Learn to Use Nest with Code Examples](https://app.daily.dev/posts/mgQma0lbU?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [How to Sort Dates Efficiently in JavaScript](https://app.daily.dev/posts/F3NFifK0c?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [TanStack Form vs. React Hook Form](https://app.daily.dev/posts/my5Ox55fP?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
-- [Performance and Stress Testing in Node.js](https://app.daily.dev/posts/HCyyIneWc?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 <!-- daily.dev BOOKMARKS:END -->
 
 ## My Pets
