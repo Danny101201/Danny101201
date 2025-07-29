@@ -52,11 +52,11 @@ My name is Danny Wu. and I'm a Frontend Developer from Taiwan.
 
 ## Dev Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [System Design was HARD until I Learned these 30 Concepts](https://app.daily.dev/posts/e1L7DtXAJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [How to Build a Telehealth App Using Stream Video and Chat SDK in React](https://app.daily.dev/posts/cXLbSH5vd?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [How I Built My Own Shadcn Library](https://app.daily.dev/posts/zzP2awkMq?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [The Backend-for-Frontend &lpar;BFF&rpar; Pattern: Secure Auth Done Right](https://app.daily.dev/posts/DH1Nx5Sor?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [How to Work with Queues in TypeScript](https://app.daily.dev/posts/376bvdbn2?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
-- [The NestJS Handbook – Learn to Use Nest with Code Examples](https://app.daily.dev/posts/mgQma0lbU?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 <!-- daily.dev BOOKMARKS:END -->
 
 ## My Pets
