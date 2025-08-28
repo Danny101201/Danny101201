@@ -52,11 +52,11 @@ My name is Danny Wu. and I'm a Frontend Developer from Taiwan.
 
 ## Dev Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [EP177: The Modern Software Stack](https://app.daily.dev/posts/CPpzUnhBa?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [Indexing JSONB in Postgres](https://app.daily.dev/posts/FNTW8lUQu?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [Next.js 15.5](https://app.daily.dev/posts/Yt2KiNNby?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [Integrate Kafka with NestJS for Event-Driven Microservices](https://app.daily.dev/posts/C1UhWWG6Q?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [the future of real-time UI](https://app.daily.dev/posts/ZKTX9CJSv?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
-- [Liquid Glass on the Web – Frontend Masters Blog](https://app.daily.dev/posts/YLBrjGz30?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 <!-- daily.dev BOOKMARKS:END -->
 
 ## My Pets
