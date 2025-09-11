@@ -52,11 +52,11 @@ My name is Danny Wu. and I'm a Frontend Developer from Taiwan.
 
 ## Dev Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [No title](https://app.daily.dev/posts/9GuzHvvYK?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [How to Build Micro Frontends in React with Vite and Module Federation](https://app.daily.dev/posts/ULzUI1um3?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [No title](https://app.daily.dev/posts/c2N7qGslk?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [Announcing Monitors API: Programmatic Monitoring &amp; Alerts](https://app.daily.dev/posts/sAGx7xWTm?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [No title](https://app.daily.dev/posts/VabXyW5z4?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
-- [No title](https://app.daily.dev/posts/saglq4xEk?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 <!-- daily.dev BOOKMARKS:END -->
 
 ## My Pets
