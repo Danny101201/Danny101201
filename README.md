@@ -52,11 +52,11 @@ My name is Danny Wu. and I'm a Frontend Developer from Taiwan.
 
 ## Dev Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [No title](https://app.daily.dev/posts/IJsnaoaKi?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
+- [UUIDv47](https://app.daily.dev/posts/07IORqjPp?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [Attack and damage animations](https://app.daily.dev/posts/sD3zwVqJS?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [No title](https://app.daily.dev/posts/75B55HfBU?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [MCP-UI + TanStack = Next Gen Web](https://app.daily.dev/posts/6kYzfn0yH?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
-- [Fresh + Vite: The Next-Gen Full-Stack Framework](https://app.daily.dev/posts/aM4i89HvQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
-- [How to Extend CRUD Operations to Align with Business Workflows](https://app.daily.dev/posts/TtzigJMlR?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 <!-- daily.dev BOOKMARKS:END -->
 
 ## My Pets
