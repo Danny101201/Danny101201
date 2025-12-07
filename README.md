@@ -52,11 +52,11 @@ My name is Danny Wu. and I'm a Frontend Developer from Taiwan.
 
 ## Dev Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Why Strong Consistency?](https://app.daily.dev/posts/Q0guBjPhQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [The New Way to Build Pipelines on Databricks: Introducing the IDE for Data Engineering](https://app.daily.dev/posts/qoVHr2fCm?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [Next.js 16: What’s New for Authentication and Authorization](https://app.daily.dev/posts/JgZLqDt3D?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [CQRS Design Pattern](https://app.daily.dev/posts/QYxE3WyB7?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [No title](https://app.daily.dev/posts/DTXEjQeMr?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
-- [Open Source Test Reporting Tools](https://app.daily.dev/posts/0h4hmrkzG?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 <!-- daily.dev BOOKMARKS:END -->
 
 ## My Pets
