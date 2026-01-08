@@ -52,11 +52,11 @@ My name is Danny Wu. and I'm a Frontend Developer from Taiwan.
 
 ## Dev Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [How to Run a Docker Container in AWS Lambda](https://app.daily.dev/posts/CWFrwQD6U?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [A Software Architect’s Guide to API-First Strategy](https://app.daily.dev/posts/rJb6QbGkq?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [TypeScript Plugin Support for Cosmo Connect](https://app.daily.dev/posts/28cbDOgi0?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [Why Strong Consistency?](https://app.daily.dev/posts/Q0guBjPhQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [The New Way to Build Pipelines on Databricks: Introducing the IDE for Data Engineering](https://app.daily.dev/posts/qoVHr2fCm?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
-- [Next.js 16: What’s New for Authentication and Authorization](https://app.daily.dev/posts/JgZLqDt3D?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 <!-- daily.dev BOOKMARKS:END -->
 
 ## My Pets
