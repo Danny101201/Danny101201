@@ -52,11 +52,11 @@ My name is Danny Wu. and I'm a Frontend Developer from Taiwan.
 
 ## Dev Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [No title](https://app.daily.dev/posts/kqsR7vdYA?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [ESLint v10.0.0-rc.1 released](https://app.daily.dev/posts/APrgmrJOW?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [Learn n8n to Design, Develop, and Deploy Production-Grade AI Agents](https://app.daily.dev/posts/3d7BTeEbb?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [How to Run a Docker Container in AWS Lambda](https://app.daily.dev/posts/CWFrwQD6U?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [A Software Architect’s Guide to API-First Strategy](https://app.daily.dev/posts/rJb6QbGkq?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
-- [TypeScript Plugin Support for Cosmo Connect](https://app.daily.dev/posts/28cbDOgi0?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 <!-- daily.dev BOOKMARKS:END -->
 
 ## My Pets
