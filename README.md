@@ -52,11 +52,11 @@ My name is Danny Wu. and I'm a Frontend Developer from Taiwan.
 
 ## Dev Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [ExpressoTS v4 is in preview, and the new site + docs are live.](https://app.daily.dev/posts/n0F8M6ozC?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [The Micro-Frontend Evolution: Why We Traded S3 Behaviors for Module Federation &lpar;and What It Cost Us&rpar;](https://app.daily.dev/posts/0IigpOvLI?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [How to Build a Full-Stack SaaS App with TanStack Start, Elysia, and Neon](https://app.daily.dev/posts/g8Qmizthw?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [The KFC Architecture Blueprint: Kafka, Flink, and ClickHouse](https://app.daily.dev/posts/pAQO9MXVw?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [No title](https://app.daily.dev/posts/dG7os5nHa?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
-- [No title](https://app.daily.dev/posts/u7mlQEjrA?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 <!-- daily.dev BOOKMARKS:END -->
 
 ## My Pets
