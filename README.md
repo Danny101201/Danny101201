@@ -52,11 +52,11 @@ My name is Danny Wu. and I'm a Frontend Developer from Taiwan.
 
 ## Dev Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [GTA.js, a reimplementation of the 1997 Grand Theft Auto engine in JavaScript and WebGL](https://daily.dev/posts/YSmb4JgEd?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [Day 10/30 Real-World DevOps Problems](https://daily.dev/posts/CX2IGLR8l?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [Learn How to Design Software Systems Like a Senior Engineer in Our New Course](https://daily.dev/posts/esOEV78M2?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [No title](https://daily.dev/posts/DhsBRam9K?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 - [NGINX Complete Course: Reverse Proxy, Load Balancing, HTTPS &amp; Docker](https://daily.dev/posts/JKsEou23l?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
-- [ExpressoTS v4 is in preview, and the new site + docs are live.](https://daily.dev/posts/n0F8M6ozC?utm_source=rss&utm_medium=bookmarks&utm_campaign=NRtczkLiNqtGyKkglwy1k)
 <!-- daily.dev BOOKMARKS:END -->
 
 ## My Pets
